@@ -5,86 +5,105 @@
 ! homepage: https://www.search.brave.com/
 ! avatar: #8B4513
 
-! === EXTREME BOOST (5) - Core Topical Wiki & Classic Sites ===
-$boost=5,site=info.com
-$boost=5,site=ask.com
-$boost=5,site=quora.com
-$boost=5,site=startpage.com
-$boost=5,site=yahoo.com
-$boost=5,site=wikipedia.org
-$boost=5,site=britannica.com
-$boost=5,site=rationalwiki.org
-$boost=5,site=sacred-texts.com
-$boost=5,site=ancient-wisdom.com
-$boost=5,site=bigthink.com
-$boost=5,site=popularmechanics.com
-$boost=5,site=howstuffworks.com
-$boost=5,site=ethw.org
-$boost=5,site=wikihow.com
-$boost=5,site=smithsonianmag.com
-$boost=5,site=skeptoid.com
-$boost=5,site=pararational.com
-$boost=5,site=theconversation.com
-$boost=5,site=4biddenknowledge.ai
-$boost=5,site=gaia.com
-$boost=5,site=mentalfloss.com
-$boost=5,site=theepochtimes.com
+! ============================================================
+! TIER 1: EXTREME BOOST (5) — Official Excavation Projects & Primary Research
+! ============================================================
+$boost=5,site=dainst.org
+$boost=5,site=dainst.blog
+$boost=5,site=tastepeler.org
+$boost=5,site=muze.gov.tr
+$boost=5,site=antikytheramechanism.pro
+$boost=5,site=antikythera.org.gr
+$boost=5,site=isaw.nyu.edu
+$boost=5,site=cometresearchgroup.org
+$boost=5,site=whoi.edu
+$boost=5,site=pnas.org
+$boost=5,site=science.org
+$boost=5,site=nature.com
+$boost=5,site=pmc.ncbi.nlm.nih.gov
 
-! === HIGH BOOST (4) - Core Topical Sites ===
-$boost=4,site=nationalgeographic.com
+! ============================================================
+! TIER 2: HIGH BOOST (4) — Credentialed Researchers & Core Alternative History
+! ============================================================
+$boost=4,site=grahamhancock.com
+$boost=4,site=robertschoch.com
+$boost=4,site=robertbauval.co.uk
+$boost=4,site=ancient-origins.net
+$boost=4,site=skeptoid.com
+$boost=4,site=badarchaeology.com
+$boost=4,site=badarchaeology.wordpress.com
+$boost=4,site=jasoncolavito.com
+$boost=4,site=archaeology.org
+$boost=4,site=archive.archaeology.org
 $boost=4,site=worldhistory.org
-$boost=4,site=history.com
-$boost=4,site=allthatsinteresting.com
-$boost=4,site=newscientist.com
-$boost=4,site=smithsonian.com
-$boost=4,site=nature.com
-$boost=4,site=science.org
-$boost=4,site=livescience.com
-$boost=4,site=scientificamerican.com
 $boost=4,site=worldhistoryencyclopedia.com
-$boost=4,site=daniken.com
+$boost=4,site=nationalgeographic.com
+$boost=4,site=smithsonianmag.com
+$boost=4,site=scientificamerican.com
+$boost=4,site=newscientist.com
+$boost=4,site=livescience.com
+$boost=4,site=discovermagazine.com
+$boost=4,site=popularmechanics.com
+$boost=4,site=howstuffworks.com
+$boost=4,site=interestingengineering.com
+$boost=4,site=phys.org
+$boost=4,site=theconversation.com
 
-! === STRONG BOOST (3) - Archaeological & Alternative History Sites ===
-$boost=3,site=interestingengineering.com
-$boost=3,site=discovermagazine.com
-$boost=3,site=discovery.com
-$boost=3,site=discoveryuk.com
-$boost=3,site=widertruth.com
-$boost=3,site=archaeology.org
-$boost=3,site=archive.archaeology.org
-$boost=3,site=grahamhancock.com
-$boost=3,site=sitchin.com
+! ============================================================
+! TIER 3: STRONG BOOST (3) — Specialized Research Sites & Megalithic/Archaeoastronomy
+! ============================================================
 $boost=3,site=atlantisrising.com
+$boost=3,site=sitchin.com
 $boost=3,site=flem-ath.com
 $boost=3,site=atlantipedia.ie
-$boost=3,site=answersingenesis.org
 $boost=3,site=eridu.co.uk
-$boost=3,site=badarchaeology.com
-$boost=3,site=badarchaeology.wordpress.com
 $boost=3,site=stolenhistory.net
 $boost=3,site=tartariabritannica.com
 $boost=3,site=tartarialives.net
 $boost=3,site=tartariaempire.com
 $boost=3,site=tartaria.wikidot.com
+$boost=3,site=widertruth.com
+$boost=3,site=answersingenesis.org
+$boost=3,site=daniken.com
+$boost=3,site=ancient-wisdom.com
+$boost=3,site=sacred-texts.com
+$boost=3,site=forteantimes.com
+$boost=3,site=openminds.tv
+$boost=3,site=ufodigest.com
+$boost=3,site=talkorigins.org
+$boost=3,site=worldfuturefund.org
+$boost=3,site=theblackvault.com
+$boost=3,site=bibliotecapleyades.net
+$boost=3,site=adventuresunlimitedpress.com
+$boost=3,site=pararational.com
+$boost=3,site=rationalwiki.org
+$boost=3,site=mentalfloss.com
+$boost=3,site=bigthink.com
+$boost=3,site=4biddenknowledge.ai
+$boost=3,site=gaia.com
 
-! === MEDIUM BOOST (2) - Alien & Fringe Science Sites ===
-$boost=2,site=space.com
-$boost=2,site=ufodigest.com
-$boost=2,site=talkorigins.org
-$boost=2,site=worldfuturefund.org
-$boost=2,site=theblackvault.com
-$boost=2,site=bibliotecapleyades.net
-$boost=2,site=ancient-origins.net
-$boost=2,site=forteantimes.com
-$boost=2,site=openminds.tv
-$boost=2,site=jasoncolavito.com
-$boost=2,site=adventuresunlimitedpress.com
-$boost=2,site=phys.org
+! ============================================================
+! TIER 4: MEDIUM BOOST (2) — Academic Archives & Reference
+! ============================================================
+$boost=2,site=wikipedia.org
+$boost=2,site=britannica.com
+$boost=2,site=history.com
+$boost=2,site=allthatsinteresting.com
+$boost=2,site=smithsonian.com
+$boost=2,site=ethw.org
+$boost=2,site=wikihow.com
+$boost=2,site=jstor.org
+$boost=2,site=academia.edu
+$boost=2,site=researchgate.net
+$boost=2,site=thecollector.com
+$boost=2,site=archive.org
+$boost=2,site=web.archive.org
 
-! === LOW BOOST (1) - Research & Archive Sites ===
-$boost=1,site=web.archive.org
-$boost=1,site=archive.org
-$boost=1,site=jstor.org
-$boost=1,site=academia.edu
-$boost=1,site=researchgate.net
-$boost=1,site=thecollector.com
+! ============================================================
+! TIER 5: LOW BOOST (1) — General Reference & Q&A (kept minimal)
+! ============================================================
+$boost=1,site=quora.com
+$boost=1,site=startpage.com
+$boost=1,site=info.com
+$boost=1,site=ask.com
+$boost=1,site=theepochtimes.com
