@@ -1,0 +1,118 @@
+! name: Ancient Tech, Pseudo-Technology & Alien Tech
+! description: Rank results to boost content from legitimate sites covering ancient technology, out-of-place artifacts (OOPArts), pseudo-archaeology, and ancient alien / alien technology theories.
+! public: true
+! author: Ancient Tech Enthusiast
+! homepage: https://www.search.brave.com/
+! avatar: #8B4513
+
+! === EXTREME BOOST - Core Topical Wiki Classic Sites ===
+$boost=5,site=info.com
+$boost=5,site=ask.com
+$boost=5,site=quora.com
+$boost=5,site=startpage.com
+$boost=5,site=yahoo.com
+$boost=5,site=wikipedia.org
+$boost=5,site=britannica.com
+$boost=5,site=rationalwiki.org
+$boost=5,site=sacred-texts.com
+$boost=5,site=ancient-wisdom.com
+$boost=5,site=bigthink.com
+$boost=2,site=theepochtimes.com
+$boost=5,site=popularmechanics.com
+$boost=5,site=howstuffworks.com
+$boost=5,site=ethw.org
+$boost=5,site=wikihow.com
+$boost=5,site=smithsonianmag.com
+$boost=5,site=rationalwiki.org
+$boost=5,site=popularmechanics.com
+$boost=5,site=howstuffworks.com
+$boost=5,site=skeptoid.com
+$boost=5,site=pararational.com
+$boost=5,site=theconversation.com
+$boost=5,site=4biddenknowledge.ai
+$boost=5,site=gaia.com
+$boost=5,site=mentalfloss.com
+
+! === HIGH BOOST - Core Topical Sites ===
+$boost=2,site=worldhistoryencyclopedia.com
+$boost=4,site=nationalgeographic.com
+$boost=4,site=worldhistory.org
+$boost=4,site=history.com
+$boost=4,site=allthatsinteresting.com
+$boost=4,site=newscientist.com
+$boost=4,site=smithsonian.com
+$boost=4,site=smithsonianmag.com
+$boost=4,site=nature.com
+$boost=4,site=science.org
+$boost=4,site=livescience.com
+$boost=4,site=allthatsinteresting.com
+$boost=4,site=scientificamerican.com
+
+! === STRONG BOOST - Core Archeological & classic & Tartarian Sites ===
+$boost=3,site=interestingengineering.com
+$boost=3,site=discovermagazine.com
+$boost=3,site=discovery.com
+$boost=3,site=discoveryuk.com
+$boost=3,site=widertruth.com
+$boost=3,site=archaeology.org
+$boost=3,site=archive.archaeology.org
+$boost=3,site=grahamhancock.com
+$boost=3,site=sitchin.com
+$boost=3,site=atlantisrising.com
+$boost=2,site=flem-ath.com
+$boost=3,site=atlantipedia.ie
+$boost=3,site=answersingenesis.org
+$boost=3,site=eridu.co.uk
+$boost=3,site=badarchaeology.com
+$boost=3,site=badarchaeology.wordpress.com
+$boost=3,site=stolenhistory.net
+$boost=3,site=tartariabritannica.com
+$boost=3,site=tartarialives.net
+$boost=3,site=tartariaempire.com
+$boost=3,site=tartaria.wikidot.com
+
+
+
+! === MEDIUM BOOST - Core Alien sites ===
+$boost=2,site=space.com
+$boost=2,site=livescience.com
+$boost=2,site=ufodigest.com
+$boost=2,site=talkorigins.org
+$boost=2,site=worldfuturefund.org
+$boost=2,site=talkorigins.org
+$boost=2,site=theblackvault.com/casefiles/
+$boost=2,site=bibliotecapleyades.net/
+$boost=2,site=ancient-origins.net
+$boost=2,site=forteantimes.com
+$boost=2,site=talkorigins.org
+$boost=2,site=openminds.tv
+$boost=2,site=jasoncolavito.com
+$boost=2,site=adventuresunlimitedpress.com
+$boost=2,site=phys.org
+$boost=4,site=daniken.com
+
+! === LOW BOOST - Core Research Sites ===
+$boost=1,site=web.archive.org
+$boost=1,site=archive.org
+$boost=1,site=jstor.org
+$boost=1,site=academia.edu
+$boost=1,site=researchgate.net
+$boost=1,site=thecollector.com
+
+! === REDDIT & COMMUNITY PATHS ===
+/r/AncientAliens/$boost=3,site=reddit.com
+/r/OutOfTheLoop/$boost=2,site=reddit.com
+/r/history/$boost=2,site=reddit.com
+/r/AskHistorians/$boost=2,site=reddit.com
+/r/Archaeology/$boost=2,site=reddit.com
+/r/AlternativeHistory/$boost=2,site=reddit.com
+/r/AncientAliens/$boost=4,site=reddit.com
+/r/AlternativeHistory/$boost=3,site=reddit.com
+/r/OutOfTheLoop/$boost=2,site=reddit.com
+/r/history/$boost=2,site=reddit.com
+/r/AskHistorians/$boost=2,site=reddit.com
+/r/Archaeology/$boost=2,site=reddit.com
+/r/lostcivilizations/$boost=3,site=reddit.com
+/r/HighStrangeness/$boost=2,site=reddit.com
+/r/UFOs/$boost=2,site=reddit.com
+/r/aliens/$boost=2,site=reddit.com
